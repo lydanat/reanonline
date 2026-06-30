@@ -1,33 +1,66 @@
-# ReanOnline Project
+# ReanOnline Landing Page
 
 ![Project Logo](./src/assets/reanonlines.png)
 
-This is a simple project built with **Vite**, **Vue 3**, and **TypeScript**.  
-It's part of my practice to learn modern frontend development.
+## Overview
 
-## Project Link  
+ReanOnline is a responsive landing page built as part of my journey to learn the Vue.js ecosystem and modern frontend development. The project focuses on building a clean, responsive user interface while exploring Vue 3's component-based architecture and development workflow with Vite.
 
-- Here is the link to the project: [ReanOnline](https://reanonline-website.vercel.app/)
+Through this project, I practiced creating reusable components, organizing a scalable project structure, and building a responsive website using modern frontend technologies.
+
+**Live Demo:** https://reanonline-website.vercel.app/
+
 ---
 
-## Tech Stack
+## Why I Built This Project
 
-- **Vite** – Fast frontend build tool  
-- **Vue 3** – JavaScript framework for UI  
-- **TypeScript** – Adds type safety to JS  
-- **Tailwind CSS** – Styling and responsive design   
+I built this project to strengthen my understanding of Vue.js by developing a real-world landing page instead of following tutorials alone.
+
+The project helped me gain practical experience with:
+
+* Building applications using Vue 3.
+* Understanding component-based architecture.
+* Developing responsive layouts with Tailwind CSS.
+* Using TypeScript for better code quality and maintainability.
+* Working with Vite as a modern frontend build tool.
+
+---
+
+## Technologies Used
+
+* Vue 3
+* TypeScript
+* Vite
+* Tailwind CSS
 
 ---
 
 ## Features
 
-- Simple responsive UI  
-- Interactive components using Vue  
-- TypeScript type safety  
-- Modern styling with Tailwind CSS  
+* Responsive landing page
+* Reusable Vue components
+* Mobile-friendly layout
+* Clean and modern user interface
+* Fast development with Vite
+* Type-safe development using TypeScript
 
 ---
 
-## License
+## What I Learned
 
-This project is for learning purposes only.
+Throughout this project, I learned how to:
+
+* Build applications using Vue 3 and the Composition API.
+* Organize components for better reusability and maintainability.
+* Create responsive layouts with Tailwind CSS.
+* Improve code quality by using TypeScript.
+* Configure and develop projects using Vite.
+* Structure a frontend project for easier scalability.
+
+---
+
+## Reflection
+
+This project served as one of my first hands-on experiences with Vue.js. Rather than simply following documentation, I focused on building a complete landing page to better understand how modern Vue applications are structured.
+
+It strengthened my confidence in developing responsive user interfaces and provided a solid foundation for working on larger Vue projects in the future.
